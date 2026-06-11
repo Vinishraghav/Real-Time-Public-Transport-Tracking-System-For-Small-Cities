@@ -83,7 +83,9 @@ This project aims to improve transportation efficiency, reduce passenger waiting
 
 ## 📷 Screenshots
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/35a35a49-7169-42c9-9c31-5a1558932ad6" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/35a35a49-7169-42c9-9c31-5a1558932ad6" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/e4c2dde1-ebac-4340-9b66-c714cd8853d8" />
+
 
 
 ## 📄 License
