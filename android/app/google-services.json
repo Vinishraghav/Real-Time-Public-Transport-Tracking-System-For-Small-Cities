@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "343570716967",
+    "project_id": "citybus-live",
+    "storage_bucket": "citybus-live.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343570716967:android:00bdf46aeb3dcd28257102",
+        "android_client_info": {
+          "package_name": "com.citybus.citybus_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343570716967-6aqah9ul85g1q9hrtv56eq1n227hs4pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBspH2u_Iwb1WbwZqhHtci7AJYaO6wbmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343570716967-6aqah9ul85g1q9hrtv56eq1n227hs4pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343570716967-fvkp9ic6eqah3gprrvfaal6orkvidkb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.citybus.citybusLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
